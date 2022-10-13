@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810089656305",
+    "project_id": "one-person-one-data-card",
+    "storage_bucket": "one-person-one-data-card.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810089656305:android:c81d2ceb5a8b57ea639e50",
+        "android_client_info": {
+          "package_name": "com.example.one_data_card"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810089656305-apk4jjmrljveb9m5enavrjidj01apth1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLMJHWOXnbsP0INkCzxxfln3LtNjse3BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810089656305-apk4jjmrljveb9m5enavrjidj01apth1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
